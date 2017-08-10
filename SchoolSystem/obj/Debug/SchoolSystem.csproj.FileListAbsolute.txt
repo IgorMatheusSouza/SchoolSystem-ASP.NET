@@ -1,0 +1,21 @@
+E:\SchoolSystem\SchoolSystem\SchoolSystem\bin\SchoolSystem.dll
+E:\SchoolSystem\SchoolSystem\SchoolSystem\bin\SchoolSystem.pdb
+E:\SchoolSystem\SchoolSystem\SchoolSystem\obj\Debug\SchoolSystem.dll
+E:\SchoolSystem\SchoolSystem\SchoolSystem\obj\Debug\SchoolSystem.pdb
+E:\SchoolSystem\SchoolSystem\SchoolSystem\obj\Debug\SchoolSystem.csprojResolveAssemblyReference.cache
+C:\Users\User\Downloads\SchoolSystem\SchoolSystem\SchoolSystem\bin\SchoolSystem.dll.config
+C:\Users\User\Downloads\SchoolSystem\SchoolSystem\SchoolSystem\bin\SchoolSystem.dll
+C:\Users\User\Downloads\SchoolSystem\SchoolSystem\SchoolSystem\bin\SchoolSystem.pdb
+C:\Users\User\Downloads\SchoolSystem\SchoolSystem\SchoolSystem\obj\Debug\SchoolSystem.csprojResolveAssemblyReference.cache
+C:\Users\User\Downloads\SchoolSystem\SchoolSystem\SchoolSystem\obj\Debug\SchoolSystem.dll
+C:\Users\User\Downloads\SchoolSystem\SchoolSystem\SchoolSystem\obj\Debug\SchoolSystem.pdb
+C:\Users\User\Downloads\SchoolSystem\SchoolSystem\SchoolSystem\bin\Model.dll
+C:\Users\User\Downloads\SchoolSystem\SchoolSystem\SchoolSystem\bin\Model.pdb
+C:\Users\User\Desktop\Master Projects\SchoolSystem\SchoolSystem\SchoolSystem\bin\SchoolSystem.dll.config
+C:\Users\User\Desktop\Master Projects\SchoolSystem\SchoolSystem\SchoolSystem\bin\SchoolSystem.dll
+C:\Users\User\Desktop\Master Projects\SchoolSystem\SchoolSystem\SchoolSystem\bin\SchoolSystem.pdb
+C:\Users\User\Desktop\Master Projects\SchoolSystem\SchoolSystem\SchoolSystem\bin\Model.dll
+C:\Users\User\Desktop\Master Projects\SchoolSystem\SchoolSystem\SchoolSystem\bin\Model.pdb
+C:\Users\User\Desktop\Master Projects\SchoolSystem\SchoolSystem\SchoolSystem\obj\Debug\SchoolSystem.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Master Projects\SchoolSystem\SchoolSystem\SchoolSystem\obj\Debug\SchoolSystem.dll
+C:\Users\User\Desktop\Master Projects\SchoolSystem\SchoolSystem\SchoolSystem\obj\Debug\SchoolSystem.pdb

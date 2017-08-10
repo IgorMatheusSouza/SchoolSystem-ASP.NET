@@ -1,0 +1,6 @@
+C:\Users\User\Downloads\SchoolSystem\SchoolSystem\Model\bin\Debug\Model.dll.config
+C:\Users\User\Downloads\SchoolSystem\SchoolSystem\Model\bin\Debug\Model.dll
+C:\Users\User\Downloads\SchoolSystem\SchoolSystem\Model\bin\Debug\Model.pdb
+C:\Users\User\Downloads\SchoolSystem\SchoolSystem\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\User\Downloads\SchoolSystem\SchoolSystem\Model\obj\Debug\Model.dll
+C:\Users\User\Downloads\SchoolSystem\SchoolSystem\Model\obj\Debug\Model.pdb
